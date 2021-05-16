@@ -1,0 +1,1 @@
+# Performance-of-analytical-footprint-models-in-mixed-fetch-conditions-Application-to-fragmented-het
